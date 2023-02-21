@@ -1,0 +1,23 @@
+Xpath for text
+1.Grocery
+html/body/div/div/div[2]/div/div/div[1]/a/div[2]
+Image
+html/body/div/div/div[2]/div/div/div[1]/a/div[1]/div/img
+
+2.Fasion image
+html/body/div/div/div[2]/div/div/div[3]/a/div[1]/div/img
+ 
+Text
+
+
+3.mobile text
+html/body/div/div/div[2]/div/div/div[2]/a/div[2]
+
+image
+html/body/div/div/div[2]/div/div/div[2]/a/div/div/img
+
+4.Electronics text
+html/body/div/div/div[2]/div/div/div[4]/a/div[2]
+
+image
+html/body/div/div/div[2]/div/div/div[4]/a/div[1]/div/img
